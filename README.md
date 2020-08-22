@@ -58,3 +58,9 @@ W3C - XQuery
 <https://documents.pub/document/1-xquery-xml-databases-roger-l-costello-16-june-2010.html>
 
 ---
+
+Random
+
+<https://github.com/LeCoupa/awesome-cheatsheets>
+
+---
