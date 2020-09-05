@@ -31,6 +31,16 @@ Markdown
 
 ---
 
+|||scala cheatsheets
+
+"Java developer's Scala cheatsheet"
+One huge Scala reference card
+> References
+>
+> <http://mbonaci.github.io/scala/>
+
+---
+
 Sumo Logic
 
 <https://help.sumologic.com/05Search/Search-Cheat-Sheets>
