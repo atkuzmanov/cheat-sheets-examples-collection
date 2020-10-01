@@ -21,13 +21,13 @@ Markdown
 
 <https://www.markdownguide.org/cheat-sheet/>
 
-<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images>
+<https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet>
 
 <https://ecotrust-canada.github.io/markdown-toc/>
 
 <https://github.com/fefong/markdown_readme/blob/master/emoji.md>
 
-<https://assemble.io/docs/Cheatsheet-Markdown.html#links>
+<https://assemble.io/docs/Cheatsheet-Markdown.html>
 
 ---
 
